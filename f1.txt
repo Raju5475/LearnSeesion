@@ -3,10 +3,15 @@ Int b -20;
 
 Learn the microservices
 
+<<<<<<< Updated upstream
 
 Vopid main git stats(){
 
 //This is the m2()//102 status
 
+=======
+Void main(){
+101 task
+>>>>>>> Stashed changes
 
 }
